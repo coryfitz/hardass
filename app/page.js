@@ -142,7 +142,7 @@ export default function ChatApp() {
     <div className="flex flex-col h-screen bg-white">
       {/* Header */}
       <div className="border-b border-gray-200 px-4 py-3">
-        <h1 className="text-lg font-medium text-gray-900">Hardass</h1>
+        <h1 className="text-lg font-bold text-gray-900">Hardass</h1>
       </div>
 
       {/* Messages */}
